@@ -1,0 +1,29 @@
+#green {
+    background-color:green;
+}
+
+#red {
+    background-color:red;
+}
+
+#blue {
+    background-color:blue;
+}
+
+button {
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    margin: 5px;   
+}
+
+body h3 {
+    text-align: center;
+    text-transform: uppercase;
+    color: magenta;
+}
+
+body {
+    text-align: center;
+}
+
